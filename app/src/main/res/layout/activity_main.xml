@@ -28,7 +28,7 @@
                 android:layout_margin="5dp"
                 android:layout_weight="1"
                 android:background="@drawable/circle"
-                android:onClick="@string/clear"
+                android:onClick="clearBTN"
                 android:text="@string/clear"
                 android:textSize="24sp" />
 
